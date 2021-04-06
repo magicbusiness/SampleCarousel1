@@ -1,0 +1,3 @@
+To use carousel
+1. Implement dependencies -> implementation 'com.synnapps:carouselview:0.1.5' -> sync
+2. Next Add Image or vector then implement it in file kotlin
